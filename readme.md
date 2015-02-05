@@ -7,3 +7,5 @@ Installation
 4. Import database file (cunga_umutungo_db.zip)
 5. Change configuration file inc/dbconfig.php
 6. Enjoy the software
+
+For more information or support contact us http://code.rw/contacts
